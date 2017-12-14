@@ -8,7 +8,6 @@ public class Main {
 
 
         System.out.println("Hello World!");
-        //Calendar now = new GregorianCalendar(Calendar.TUESDAY, Calendar.MONTH, Calendar.DAY_OF_MONTH);
         Calendar now = new GregorianCalendar();
 
         Date nowTime = now.getTime();
@@ -18,7 +17,7 @@ public class Main {
 
 
         foo myfoo = new foo();
-        System.out.print(myfoo.foo()); 
+        System.out.print(myfoo.foo());
 
     }
 }
