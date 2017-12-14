@@ -18,7 +18,7 @@ public class Main {
 
 
         foo myfoo = new foo();
-        System.out.print(myfoo.foo());
+        System.out.print(myfoo.foo()); 
 
     }
 }
