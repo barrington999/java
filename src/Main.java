@@ -15,14 +15,10 @@ public class Main {
         System.out.println(nowTime.toString());
 
 
-        for (int i = 0; i < ; i++) {
 
-        }
 
-        for (:
-             ) {
-
-        }
+        foo myfoo = new foo();
+        System.out.print(myfoo.foo());
 
     }
 }
